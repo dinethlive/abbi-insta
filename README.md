@@ -1,6 +1,6 @@
 # abbi-insta-gallery
 <hr>
-This is Sunday Fun Project. I undestood some CSS concepts clearly. I'm still going on learning phase
+This is Sunday Fun Project. Today I undestood some CSS concepts clearly. I'm still going on learning phase
 <ul>
   <li>transistion</li>
   <li>opacity</li>
